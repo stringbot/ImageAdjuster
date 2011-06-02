@@ -5,6 +5,12 @@ Copyright (C) 2007 David Bollinger
 As of 2007-Jan-12, Processing Beta 0123:
 As if 2009-May-26, Processing 1.0.3
 
+Note: I have added this library to GitHub because the original maintainer's
+website seems to have disappeared. I didn't write it, I haven't
+contributed to it, I am just a user who felt like it should still be
+available someplace. David, if you see this and want it taken down just
+let me know. -@stringbot
+
 WHAT IS IT?
 -----------
 
